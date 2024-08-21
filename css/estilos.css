@@ -1,6 +1,9 @@
 body{
     margin: 0%;
-    font-family: cursive;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
     background-color: rgb(251, 200, 217);
 }
 .menu a{
